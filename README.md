@@ -25,6 +25,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: *valeriemarmolejomolina@gmail.com*
+- 💼 LinkedIn: *www.linkedin.com/in/valerie-marmolejo-molina-99b4b53b7*
 
 ---
 
