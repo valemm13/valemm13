@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valerie Marmolejo</h1>
+<h1 align="center">Hi 👋, I'm Valerie Marmolejo Molina</h1>
 <h3 align="center">💻 Systems Engineering Student | Pontificia Universidad Javeriana Cali</h3>
 
 <p align="center">
