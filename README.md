@@ -2,7 +2,9 @@
 <h3 align="center">💻 Systems Engineering Student | Pontificia Universidad Javeriana Cali</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Universidad-Javeriana_Cali-0A2540?style=for-the-badge"/>
+  <a href="https://www.javerianacali.edu.co/" target="_blank">
+    <img src="https://img.shields.io/badge/🎓_Universidad-Javeriana_Cali-0A2540?style=for-the-badge"/>
+  </a>
   <img src="https://img.shields.io/badge/📚_Semester-4°-00A8E8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🌐_English-B2-4CAF50?style=for-the-badge"/>
 </p>
